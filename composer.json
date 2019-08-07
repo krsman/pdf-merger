@@ -1,5 +1,5 @@
 {
-    "name": "clegginabox/pdf-merger",
+    "name": "krsman/pdf-merger",
     "description": "PDF File Merger for PHP5",
     "require": {
         "setasign/fpdf": "1.8.1"
