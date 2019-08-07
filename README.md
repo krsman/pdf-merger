@@ -3,17 +3,18 @@
 Original written by http://pdfmerger.codeplex.com/team/view<br />
 Forked from https://github.com/myokyawhtun/PDFMerger
 
+
 ## Composer Compatible
 
-I've just forked this package to make it compatible with composer
+I've just forked this package to make it compatible with new setassign namespace
 
 To install add this line to your composer.json
 
-```"clegginabox/pdf-merger": "dev-master"```
+```"krsman/pdf-merger": "dev-master"```
 
 or
 
-```composer require clegginabox/pdf-merger: "dev-master"```
+```composer require krsman/pdf-merger: "dev-master"```
 
 ### Example Usage
 ```php
